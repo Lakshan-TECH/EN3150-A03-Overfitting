@@ -1,0 +1,11 @@
+# data and generated model files (large)
+data/
+outputs/
+*.pt
+*.npz
+# python / editor
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.vscode/
