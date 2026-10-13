@@ -41,7 +41,7 @@ commit at the end: the assignment checks that work was spread over a reasonable 
 `data/`, `outputs/*.pt`, `.venv/` (already in .gitignore).
 
 ## 5. Suggested things for each member to commit (match what you really do)
-* Abishek: data preparation notes, dataset figures, optimizer-study notes
-* Luckshan: architecture notes, parameter/MAC verification, limitations section
+* Luckshan: data preparation notes, dataset figures, optimizer-study notes
+* Abishek: architecture notes, parameter/MAC verification, limitations section
 * Sampavi: training/evaluation results, loss curves, confusion-matrix analysis
 * Santhosh: SOTA fine-tuning results, final comparison, report PDF in docs/
